@@ -1,0 +1,1 @@
+export const adminPassword = process.env.ADMIN_PASSWORD || 'gqsbjlht21o';
